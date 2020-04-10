@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{F445F8FA-F50D-3F88-7697-0E6E6866A131}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RotateCamera.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="26" Column="33" />
+      <File FileName="Assets/Scripts/RotateCamera.cs" Line="15" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="920ff206-c105-4aad-958a-648ca70f00ee" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
